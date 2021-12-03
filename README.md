@@ -1,11 +1,11 @@
 ### Hello :octocat:
 
 My name is Layan and I like to code. 🌱
-- I have a bachelor's in Computer Science (2020)
+- I have a bachelor's degree in Computer Science (2020)
 - I'm interested in Artificial Intelligence, Algorithms, and Analysis
 - 🔭 Currently working on applying AI to elevate the healthcare sector in Saudi Arabia
 
-I also enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon:
+Also, I enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon:
 
 
 #### ☆ Find Me 
