@@ -22,8 +22,9 @@ I also enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon:
 
 
 #### ☆ Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layancs&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=layancs&theme=monokai)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layancs&theme=monokai) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=layancs&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=layancs&theme=dracula)
 <!-- ![LayanCS's GitHub stats](https://github-readme-stats.vercel.app/api?username=layancs&show_icons=true&theme=monokai) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=layancs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
