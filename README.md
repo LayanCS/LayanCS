@@ -15,7 +15,7 @@ Also, I enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon
 
 ##### Latest Medium Post:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@LayanS/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@LayanS/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@LayanSA/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@LayanSA/0" alt="Recent Article 0"></a>
 
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@LayanS/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@LayanS/2" alt="Recent Article 2">  -->
 
