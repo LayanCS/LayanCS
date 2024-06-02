@@ -1,12 +1,13 @@
 ### Hello :octocat:
-
+My name is Layan and I like to code :)
+<!--
 My name is Layan and I like to code. 🌱
-- I have a bachelor's degree in Computer Science (2020)
+- I have a bachelor's degree in Computer Science
 - I'm interested in applied research in AI and Data Science
 - 🔭 Currently working on applying AI to elevate the healthcare sector in Saudi Arabia
 
 Also, I enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon:
-
+--->
 
 #### ☆ Find Me 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-alabdullatef/)
