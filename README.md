@@ -2,7 +2,7 @@
 
 My name is Layan and I like to code. 🌱
 - I have a bachelor's degree in Computer Science (2020)
-- I'm interested in Artificial Intelligence, Algorithms, and Analysis
+- I'm interested in applied research in AI and Data Science
 - 🔭 Currently working on applying AI to elevate the healthcare sector in Saudi Arabia
 
 Also, I enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon:
