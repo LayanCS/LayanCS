@@ -12,8 +12,9 @@ Also, I enjoy reading, playing video games, and stargazing. :waxing_gibbous_moon
 #### ☆ Find Me 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-alabdullatef/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LayanSA)
+<!--
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LayanCS)
-
+--->
 ##### Latest Medium Post:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@LayanSA/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@LayanSA/0" alt="Recent Article 0"></a>
